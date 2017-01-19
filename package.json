@@ -1,0 +1,20 @@
+{
+  "name": "text-filtering-js",
+  "version": "1.0.0",
+  "description": "Purify text for NLP task or Data Analytic   When we crawl data from forum blog etc   we may get text with bunch of formatting that can infect our analyze this library aims to remove all formatting and unused string In order to purify the text",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lammmmmmm/text-filtering-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lammmmmmm/text-filtering-js/issues"
+  },
+  "homepage": "https://github.com/lammmmmmm/text-filtering-js#readme"
+}
